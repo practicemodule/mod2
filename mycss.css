@@ -1,1 +1,44 @@
 
+* {box-sizing: border-box;}
+
+.row {
+  width: 100%;
+}
+
+h1 {text-align: center;
+    margin-top: 20px;
+	margin-bottom: 20px;
+ }
+	 
+div {
+	margin-bottom: 5px;
+    margin-top: 5px;
+ }
+ 
+.column {position: relative;
+	background-color: gray;
+	margin-right: 5px;
+	margin-left: 5px;
+}
+
+.submenu {text-align: center;
+	background-color: maroon;
+	width: 70px;
+	padding: 10px;
+	border: 1px solid balck;
+	margin-bottom: 20px;
+	margin-top: 0px;
+	position: absolute;
+	font-weight: bold;
+	right: 0px;
+}
+
+.paragraph {margin-top: 50px;
+
+}
+
+.color2 {background-color: green;}
+.color3 {background-color: blue;}
+
+
+
